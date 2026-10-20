@@ -21,6 +21,15 @@ A Python application to add expenses, calculate total spending, and save records
 
 [View Repository](https://github.com/ayushraj25-git/Expense_Tracker)
 
+### 3. Weather App 🌦️
+
+A Python-based weather application that fetches live weather information using the OpenWeatherMap API.
+
+**Features:** Temperature, feels-like temperature, humidity, wind speed, and weather conditions.
+
+[View Repository](https://github.com/ayushraj25-git/Weather-App)
+
+  
 ## 🎯 Goals
 - Improve my problem-solving skills
 - Build useful software projects
