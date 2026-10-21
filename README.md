@@ -6,8 +6,9 @@
 
 ## 🛠️ Skills
 - **Languages:** Python, C++
+- Web Development: HTML, CSS
 - **Tools:** Git, GitHub, VS Code
-- **Currently Learning:** Python Development and DSA
+- **Currently Learning:** Python Development, DSA, and Backend Development
 
 ## 📂 My Projects
 
@@ -29,6 +30,13 @@ A Python-based weather application that fetches live weather information using t
 
 [View Repository](https://github.com/ayushraj25-git/Weather-App)
 
+### 4. To-Do List App ✅
+
+A Python command-line application to manage daily tasks.
+
+**Features:** Add, view, edit, delete, and complete tasks; undo completed tasks; JSON-based data storage; and error handling.
+
+[View Repository](https://github.com/ayushraj25-git/Todo-App)
   
 ## 🎯 Goals
 - Improve my problem-solving skills
